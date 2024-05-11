@@ -1,1 +1,1 @@
-LLM application to generate food recipe based on user text and image input
+LLM application to generate physical activity routine based on user text and image input
