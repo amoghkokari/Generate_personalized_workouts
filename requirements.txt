@@ -1,0 +1,4 @@
+google-generativeai
+firebase_admin
+datetime
+Pillow
