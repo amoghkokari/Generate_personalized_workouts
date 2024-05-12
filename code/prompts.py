@@ -44,6 +44,7 @@ def build_prompt(goal, intensity, duration, frequency, preferred_activities, any
         '
         ##### Routine Name: <name of the routine>
         ##### Goals: <fitness goals>
+        ##### Calories Burnt: <Total Calories Burnt for entire routine>
         ##### Routine details: 
         <Routine plan for total duration of the routine, total day till we see the result for how many times per week and level of intensity>
         ##### Equipment Needed: <list of equipment>
@@ -55,6 +56,7 @@ def build_prompt(goal, intensity, duration, frequency, preferred_activities, any
         <start by doing this with as much specifics as possible>
         <at this place>
         <for this long>
+        <calories burned>
         <next on this weekday / weekdays and time>>
         .
         .
